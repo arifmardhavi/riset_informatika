@@ -1,3 +1,5 @@
+![RMC_SKRIPSIKU RANCANG BANGUN FITTNESS CONSULTANT APPS DENGAN METODE PROTOTYPE DAN PENGUJIAN BLACKBOX_page-0001](https://github.com/arifmardhavi/riset_informatika/assets/36786418/10c66941-9fe7-431f-a213-141c3626689f)
+
 # Rancang Bangun Fitness Consultant Apps berbasis web dengan menggunakan Metode Prototype & Blackbox
 
 ## Informasi Identitas
