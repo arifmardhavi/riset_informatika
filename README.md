@@ -8,15 +8,15 @@
 
 ## Deskripsi Proyek
 
-Proyek ini bertujuan untuk mengembangkan sebuah aplikasi berbasis web yang memfasilitasi layanan konsultasi kebugaran secara daring. Dalam pengembangan aplikasi ini, kita akan menerapkan metode Prototype untuk tahap perancangan, pengujian, dan evaluasi aplikasi. Selain itu, kita juga akan menggunakan metode pengujian Blackbox untuk memastikan fungsionalitas dan efektivitas prototipe aplikasi.
+Proyek ini bertujuan untuk mengembangkan sebuah aplikasi berbasis web yang memfasilitasi layanan konsultasi kebugaran secara daring. Dalam pengembangan aplikasi ini, saya akan menerapkan metode Prototype untuk tahap perancangan, pengujian, dan evaluasi aplikasi. Selain itu, saya juga akan menggunakan metode pengujian Blackbox untuk memastikan fungsionalitas dan efektivitas prototipe aplikasi.
 
 ## Persoalan Praktis
 
-Dalam penelitian ini, kita mengidentifikasi beberapa persoalan praktis yang perlu diselesaikan:
+Dalam penelitian ini, saya mengidentifikasi beberapa persoalan praktis yang perlu diselesaikan:
 
-1. **Aksesibilitas Layanan Konsultasi Kebugaran**: Bagaimana kita dapat menciptakan sebuah aplikasi berbasis web yang mempermudah akses masyarakat umum dan pelatih kebugaran terhadap layanan konsultasi kebugaran secara daring?
+1. **Aksesibilitas Layanan Konsultasi Kebugaran**: Bagaimana saya dapat menciptakan sebuah aplikasi berbasis web yang mempermudah akses masyarakat umum dan pelatih kebugaran terhadap layanan konsultasi kebugaran secara daring?
 
-2. **Fungsionalitas dan Efektivitas Aplikasi**: Bagaimana kita dapat memastikan bahwa prototipe aplikasi yang dibangun tidak hanya berfungsi dengan baik tetapi juga efektif dalam menyediakan konsultasi kebugaran yang berkualitas?
+2. **Fungsionalitas dan Efektivitas Aplikasi**: Bagaimana saya dapat memastikan bahwa prototipe aplikasi yang dibangun tidak hanya berfungsi dengan baik tetapi juga efektif dalam menyediakan konsultasi kebugaran yang berkualitas?
 
 3. **Pengalaman Pengguna**: Bagaimana pengguna mengalami penggunaan aplikasi ini? Apakah aplikasi ini mudah digunakan? Apakah pengguna merasa puas dengan layanan yang diberikan?
 
