@@ -44,4 +44,4 @@ Beberapa teori yang relevan dengan topik ini adalah:
 
 ## Catatan
 
-Proyek ini merupakan bagian dari penelitian di kelas Riset Informatika C. Saya berharap bahwa hasil dari proyek ini dapat memberikan kontribusi positif dalam meningkatkan akses dan kualitas layanan konsultasi kebugaran secara daring.
+Proyek ini merupakan bagian dari penelitian di kelas Riset Informatika C dan juga skripsi. Saya berharap bahwa hasil dari proyek ini dapat memberikan kontribusi positif dalam meningkatkan akses dan kualitas layanan konsultasi kebugaran secara daring.
